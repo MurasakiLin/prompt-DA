@@ -1,6 +1,7 @@
 # prompt-DA
 This is the 3DUNet version prompt-DA for infant tissue segmentation.
-![image](https://github.com/MurasakiLin/prompt-DA/assets/127721194/96e03614-12fd-4660-8107-8078b64be37d)
+![image](https://github.com/MurasakiLin/prompt-DA/assets/127721194/37ac0821-40f3-4d5d-86d7-0a02d344eac0)
+
 
 ## Prpare data
 ```
